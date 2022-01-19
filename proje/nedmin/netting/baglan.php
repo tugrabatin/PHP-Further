@@ -1,0 +1,18 @@
+<?php 
+
+	try {
+
+			$db=new PDO("mysql:host=localhost;dbname=eticaret;charset=utf8",'root','ct2JJsA6');
+			//echo "Başarılı";
+
+
+	}
+
+	catch (PDOExpception $e) {
+
+		echo $e->getMessage();
+
+	}
+
+
+?>
