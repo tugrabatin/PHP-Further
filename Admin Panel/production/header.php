@@ -103,6 +103,9 @@ session_start();
                   <li><a href="kullanici.php"><i class="fa fa-user"></i> Kullanıcılar </a>
                   </li>
 
+                  <li><a href="menu.php"><i class="fa fa-list"></i> Menü Ayarları </a>
+                  </li>
+
                   <li><a><i class="fa fa-cogs"></i> Site Ayarları <span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
                       <li><a href="genelayar.php">Genel Ayarlar</a></li>

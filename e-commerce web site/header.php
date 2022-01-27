@@ -72,7 +72,7 @@
 										<p>
 											Hesap oluşturarak daha hızlı alışveriş yapabilir, sipariş durumundan haberdar olabilirsiniz..
 										</p>
-										<button class="btn btn-default btn-yellow">Kayıt Ol</button>
+										<a href="register.php"><button class="btn btn-default btn-yellow">Kayıt Ol</button></a>
 									</div>
 								</div>
 							</div>
@@ -117,7 +117,7 @@
 								<li><a href="index.php" class="active">Ana sayfa</a><div class=""></div>
 								<li><a href="hakkimizda.php" class="">Hakkımızda</a><div class=""></div></li>
 								<li class="dropdown menu-large">
-									<a href="#" class="dropdown-toggle" data-toggle="dropdown">Kategoriler</a>
+									<a href="kategoriler.php" class="dropdown-toggle" data-toggle="dropdown">Kategoriler</a>
 									<ul class="dropdown-menu megamenu container row">
 										<li class="col-sm-4">
 											<h4>Kategori 1</h4>
@@ -143,7 +143,6 @@
 										</li>
 									</ul>
 								</li>
-								<li><a href="page-sidebar.htm">Hakkımızda</a></li>
 								<li><a href="category.htm">Ürünler</a></li>
 								<li><a href="contact.htm">İletişim</a></li>
 							</ul>
